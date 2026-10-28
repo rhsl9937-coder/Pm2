@@ -11,7 +11,7 @@ export LIBNDS ?= $(DEVKITPRO)/libnds
 TARGET := princess_life_ds
 BUILD := build
 SOURCES := source
-INCLUDES := include build
+INCLUDES := include build source
 
 GAME_TITLE := Princess Life DS
 GAME_SUBTITLE1 := Original fan-made prototype
